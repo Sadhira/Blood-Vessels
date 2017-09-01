@@ -17,9 +17,11 @@ myVes2 - segmentation for blood vessels.
 ### Matlab
 mnist_modify2 - generation of input and vessel segmentation ground truth.
 
+mnist_crossing - generation of crossing detection ground truth.
+
 ## Output
 
-mnist_crossing - generation of crossing detection ground truth.
+
 ### Final Network
 ![Network Structure](https://github.com/Sadhira/Blood-Vessels/blob/master/Network%20Structure.png)
 
