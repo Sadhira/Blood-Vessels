@@ -13,10 +13,10 @@ mySeg8 - crossing point detection for modified MNIST.
 
 mySeg9 - amalgamation for modified MNIST.
 
-myVes2 - segmentation for blood vessls.
+myVes2 - segmentation for blood vessels.
 
 
 ### Matlab
-mnist_modify2 - generation of input and vessel segmentation ground truth
+mnist_modify2 - generation of input and vessel segmentation ground truth.
 
-mnist_crossing - generation of crossing detection ground truth
+mnist_crossing - generation of crossing detection ground truth.
