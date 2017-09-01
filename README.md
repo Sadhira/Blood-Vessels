@@ -1,8 +1,6 @@
 # Blood-Vessels
 
-Machine Learning to detect blood vessels and their crossing points in fundus images, photographs of the back of the eye. Matlab was used for preprocessing, and Python with frontend Keras and backend Theano for primary processing.
-
-Pre-processing done in Matlab to generate customised ground truth from MNIST images. Primary and post processing performed using Python with the Jupyter IDE. Inspired by UberNet and U-Net.
+Machine Learning to detect blood vessels and their crossing points in fundus images, photographs of the back of the eye. Pre-processing done in Matlab to generate customised ground truth from MNIST images. Primary and post processing performed using Python, using frontend Keras and backend Theano, with the Jupyter IDE. Inspired by UberNet and U-Net.
 
 ### Final Network
 ![Network Structure](https://github.com/Sadhira/Blood-Vessels/blob/master/Network%20Structure.png)
