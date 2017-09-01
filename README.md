@@ -5,7 +5,7 @@ Machine Learning to detect blood vessels and their crossing points in fundus ima
 Pre-processing done in Matlab to generate customised ground truth from MNIST images. Primary and post processing performed using Python with the Jupyter IDE. Inspired by UberNet and U-Net.
 
 
-## Main scripts:
+## Main scripts
 ### Python
 mySeg7 - segmentation of modified MNIST.
 
